@@ -1,0 +1,8 @@
+langchain
+chromadb
+sentence-transformers
+pypdf
+
+# optional -> test und lint
+pytest
+ruff
