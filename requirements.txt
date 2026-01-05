@@ -2,6 +2,8 @@ langchain
 chromadb
 sentence-transformers
 pypdf
+transformers
+torch
 
 # optional -> test und lint
 pytest
